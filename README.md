@@ -1,4 +1,4 @@
-I'm Parthavi Kurugundla, an engineering student with a deep passion for Machine Learning and Generative AI. My journey began with a fascination for how intelligent systems work, and over time, it has evolved into a hands-on exploration of building real-world applications that solve meaningful problems.
+I'm Parthavi Kurugundla, a Computer Science student with a deep passion for Machine Learning and Generative AI. My journey began with a fascination for how intelligent systems work, and over time, it has evolved into a hands-on exploration of building real-world applications that solve meaningful problems.
 
 From developing cold-start recommendation systems using meta-learning and clustering, to creating summarization bots and facial expression recognition tools, my work is driven by a desire to blend deep technical knowledge with practical usability. During my internship at Virtusa Capital, I worked on applying LLMs to summarization tasks, which further reinforced my interest in natural language processing and applied AI.
 
