@@ -2,7 +2,7 @@ I'm Parthavi Kurugundla, a Computer Science student with a deep passion for Mach
 
 From developing cold-start recommendation systems using meta-learning and clustering, to creating summarization bots and facial expression recognition tools, my work is driven by a desire to blend deep technical knowledge with practical usability. During my internship at Virtusa Capital, I worked on applying LLMs to summarization tasks, which further reinforced my interest in natural language processing and applied AI.
 
-I’ve also been working on structuring backend systems using Express.js, Prisma ORM, and PostgreSQL — particularly for a student-faculty project allocation platform, aimed at streamlining academic collaboration.
+I worked on structuring backend systems using Express.js, Prisma ORM, and PostgreSQL — particularly for a student-faculty project allocation platform, aimed at streamlining academic collaboration.
 
 What motivates me most is the idea of using AI and software to simplify complex processes and make impactful tools more accessible. I enjoy working at the intersection of innovation and empathy — where technology not only functions efficiently but also resonates with real user needs.
 
